@@ -7,5 +7,5 @@ def my_collect (array)
     i = i + 1
   end
 
-  newArray.push(i)
+  newArray
 end
